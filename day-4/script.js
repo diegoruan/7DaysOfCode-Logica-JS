@@ -1,4 +1,6 @@
-const numero = Math.floor(Math.random()*(10-0+1)+0);
+const minimo = 0;
+const maximo = 10;
+const numero = Math.floor(Math.random()*(maximo-minimo+1)+minimo);
 
 let tentativas = 0;
 
