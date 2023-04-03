@@ -102,7 +102,7 @@ Lista de compras:
 - Congelados:
 - Doces: chiclete e bala de ursinho
 
-## Dia 5 - Concluído
+## Dia 6 - Concluído
 Você deverá criar a opção de remover algum item da lista, que será exibida junto à pergunta de "você deseja adicionar uma comida na lista de compras"?
 
 A partir daí, caso a pessoa escolha essa opção, o programa irá imprimir os elementos presentes na lista atual, e a pessoa deverá escrever qual deles deseja remover.
@@ -117,7 +117,14 @@ Por exemplo: "Não foi possível encontrar o item dentro da lista!"
 
 Lembre-se que a opção de remover um item só deverá estar disponível a partir do momento que existir ao menos um elemento dentro da lista de compras.
 
-:construction: Projeto em construção :construction:
+## Dia 7 - Concluído
+crie a sua própria calculadora, porém com um detalhe muito importante: cada operação deverá ser uma função diferente no seu código.
+
+Primeiramente, a pessoa deverá escolher uma opção de operação impressa pelo programa na tela.
+
+Depois, ela deverá inserir os dois valores que deseja utilizar, e o programa imprimirá o resultado da operação em questão.
+
+As opções disponíveis deverão ser: soma, subtração, multiplicação, divisão, e sair. Nessa última, o programa deverá parar de ser executado, mostrando uma mensagem "Até a próxima".
 
 ## Ferramentas utilizadas:
 
